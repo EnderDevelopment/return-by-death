@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Return by Death Resources",
+    "description": "Audio resources for Return by Death.",
+    "uuid": "f2c6cf52-2e73-4d2b-a44a-eab2df2be0ec",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "8ab4dd91-3c27-4235-91ae-e82cd8b9bd75",
+      "version": [1, 0, 0]
+    }
+  ]
+}

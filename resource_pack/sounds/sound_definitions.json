@@ -1,0 +1,14 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "rbd.death_voice": {
+      "category": "player",
+      "sounds": [
+        {
+          "name": "sounds/rbd/death_voice",
+          "stream": true
+        }
+      ]
+    }
+  }
+}

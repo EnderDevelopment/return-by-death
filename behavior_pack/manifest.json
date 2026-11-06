@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Return by Death",
+    "description": "A Re:Zero-inspired survival ability add-on.",
+    "uuid": "bf7764f5-1493-4cf7-a7a4-92d9a8a28a11",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "c89b7a3d-8776-4d6c-b596-966b875e9d56",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.17.0"
+    }
+  ]
+}
